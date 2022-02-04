@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://charity.gofundme.com/o/en/campaign/crph">
 <p align="center">
   <img src="https://i.imgur.com/5Ge2bKo.png" />
 </p>
-</a>
