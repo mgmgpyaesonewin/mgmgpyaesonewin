@@ -45,6 +45,9 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mgmgpyaesonewin&theme=dracula&hide_border=true)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <!--
 **mgmgpyaesonewin/mgmgpyaesonewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
