@@ -37,6 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mgmgpyaesonewin&show_icons=true&theme=dark" alt="mgmgpyaesonewin" />
 </p>
 
+<a href="https://app.daily.dev/pyaesonewin">
+  <img src="https://api.daily.dev/devcards/ecdc02169f8f47109380b815df096438.png?r=0ej" width="400" alt="Pyae Sone Win's Dev Card"/>
+</a>
+
 
 <!--
 **mgmgpyaesonewin/mgmgpyaesonewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
