@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/5Ge2bKo.png" />
-</p>
+</p> -->
