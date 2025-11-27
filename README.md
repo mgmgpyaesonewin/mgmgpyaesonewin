@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
-  <img src="https://i.imgur.com/5Ge2bKo.png" />
-</p> -->
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1310055" style='border:none;'></iframe>
+</p>
