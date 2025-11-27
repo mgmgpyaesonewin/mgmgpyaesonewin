@@ -1,70 +1,96 @@
-<h1 align="center">Hi 👋, I'm Pyae Sone Win</h1>
-<h3 align="center">A Fullstack developer from Myanmar</h3>
+<div id="header" align="center">
+  <h1 align="center">Hi 👋, I'm Pyae Sone Win</h1>
+  <h3 align="center">A Full-Stack Developer from Myanmar, passionate about building beautiful and functional web applications.</h3>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgmgpyaesonewin&theme=chalk" alt="mgmgpyaesonewin" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgmgpyaesonewin&label=Profile%20views&color=0e75b6&style=flat" alt="pyaesonewin" /> </p>
-<p align="left"> <img src="https://hard-wasp-93.deno.dev/api/badge" alt="pyaesonewin" /> </p>
+<div id="socials" align="center">
+  <a href="https://twitter.com/Pyae_Sone_Win">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pyae-sone-win-63b4a3102/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/5413303/pyae-sone">
+    <img src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://fb.com/pyaesone.geek">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
 
-- 🌱 I’m currently hype **Test Driven Development**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/mgmgpyaesonewin](https://github.com/mgmgpyaesonewin)
+### 🚀 About Me
 
-- 💬 Ask me about **Vue, React, Laravel and Node.js**
+- 🔥 Diving deep into **Test-Driven Development (TDD)** to ensure code quality and reliability.
+- 👨‍💻 My projects are available at [https://github.com/mgmgpyaesonewin](https://github.com/mgmgpyaesonewin)
+- 💬 Ask me about anything related to **Vue, React, Laravel, and Node.js**.
+- 📫 You can reach me at [mgmgpyaesonewin@gmail.com](mailto:mgmgpyaesonewin@gmail.com).
 
-- 📫 How to reach me **mgmgpyaesonewin@gmail.com**
+---
+
+### 🛠️ Skills
+
+#### Languages
 
 <p align="center">
-  <a href="https://twitter.com/Pyae_Sone_Win" target="blank"><img src="https://img.shields.io/twitter/follow/Pyae_Sone_Win?logo=twitter&style=for-the-badge" alt="Pyae Sone Win" /></a>
-</p>
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/Pyae_Sone_Win" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mgmgpyaesonewin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pyae-sone-win-63b4a3102/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mgmgpyaesonewin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5413303/pyae-sone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mgmgpyaesonewin" height="30" width="40" /></a>
-<a href="https://fb.com/pyaesone.geek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mgmgpyaesonewin" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,ts,python" />
   </a>
 </p>
 
+#### Frameworks & Libraries
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgmgpyaesonewin&layout=compact&count_private=true" alt="mgmgpyaesonewin" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mgmgpyaesonewin&show_icons=true&theme=dark" alt="mgmgpyaesonewin" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,laravel,nodejs,express,tailwind,bootstrap" />
+  </a>
 </p>
+
+#### Databases & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,git,github,docker" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgmgpyaesonewin&layout=compact&count_private=true&theme=dracula" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mgmgpyaesonewin&show_icons=true&theme=dracula" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mgmgpyaesonewin&theme=chalk" />
+  </a>
+</p>
+
+---
+
+### 🧠 DevCard
 
 <p align="center">
   <a href="https://app.daily.dev/pyaesonewin">
-    <img src="https://api.daily.dev/devcards/ecdc02169f8f47109380b815df096438.png?r=0ej" width="400" alt="Pyae Sone Win's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/ecdc02169f8f47109380b815df096438.png?r=0ej" width="400" />
   </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mgmgpyaesonewin&theme=dracula&hide_border=true)
+---
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-<!--
-**mgmgpyaesonewin/mgmgpyaesonewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 TryHackMe
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1310055" style='border:none;'></iframe>
+  <a href="https://tryhackme.com/p/PyaeSoneWin">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pyaesonewin.png" alt="PyaeSoneWinTryHackMe" />
+  </a>
 </p>
